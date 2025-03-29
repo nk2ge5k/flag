@@ -22,6 +22,8 @@
 #ifndef FLAGS_H
 #define FLAGS_H
 
+#define _XOPEN_SOURCE
+#define __USE_XOPEN
 #include <time.h>
 #include <stdio.h>
 #include <stdbool.h>
