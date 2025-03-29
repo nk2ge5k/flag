@@ -1,4 +1,4 @@
-# Flag - Simple C/C++ Command-Line Argument Parsing
+# Flag - Command-Line Argument Parsing
 
 A minimalist, header-only library for parsing command-line arguments in C and C++, inspired by:
 - [peterbourgon/ff](https://github.com/peterbourgon/ff)
